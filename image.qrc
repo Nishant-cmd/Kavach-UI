@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PngItem_3669459.png</file>
+        <file>password.png</file>
+        <file>../../Downloads/saved.jpg</file>
+    </qresource>
+</RCC>
